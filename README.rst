@@ -1,5 +1,3 @@
-# Automated-EC2-Instance
-Create &amp; Setup a new EC2-Instance with spectific config
 pgbackup
 ========
 CLI for backing up remote PostgreSQL databases locally or to AWS S3.
